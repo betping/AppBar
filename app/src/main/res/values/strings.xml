@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Bar</string>
+    <string name="contact">Contacts</string>
+    <string name="setting">Setting</string>
+    <string name="status">Status</string>
+    <string name="voice">Voice</string>
+    <string name="call">Call</string>
+    <string name="done">Done</string>
+</resources>

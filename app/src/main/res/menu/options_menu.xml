@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/contact"
+    android:title="@string/contact"
+     android:showAsAction="ifRoom"
+/>
+    <item
+        android:id="@+id/status"
+        android:title="@string/status"
+        android:showAsAction="ifRoom"
+    />
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_settings_applications_white_48dp"
+    />
+    <item
+        android:title="@string/call"
+        android:id="@+id/call"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_call_end_white_48pt_3x"
+    />
+    <item
+        android:title="@string/voice"
+        android:id="@+id/search_voice"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_keyboard_voice_white_48dp"
+    />
+    <item
+        android:title="@string/done"
+        android:id="@+id/done"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_done_white_48dp"
+
+    />
+</menu>
